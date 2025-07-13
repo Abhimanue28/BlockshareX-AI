@@ -1,0 +1,9 @@
+BlockShareX Test File
+
+This is a sample test file for uploading to the BlockShareX decentralized file sharing platform.
+
+- Uploaded by: Test User
+- Date: 2025-07-12
+- Purpose: Verify file upload, IPFS storage, and retrieval
+
+Thank you for testing!
